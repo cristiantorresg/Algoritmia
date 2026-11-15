@@ -1,5 +1,5 @@
 Árbol de Componentes de Rueda Libre
-
+Nota: Para una correcta visualización, por favor poner la opción de "code" y no el preview que pone por defecto Github, gracias.
 
 App / Layout Principal (Estructura base de la página)
 │
